@@ -8,3 +8,9 @@ An open-source Python framework for parsing student inputs, evaluating symbolic 
 ```bash
 python -m unittest discover tests
 ```
+## 🚀 Installation & Setup
+```bash
+git clone [https://github.com/rohinegeorge/math-eval-engine.git](https://github.com/rohinegeorge/math-eval-engine.git)
+cd math-eval-engine
+pytest tests/
+```
